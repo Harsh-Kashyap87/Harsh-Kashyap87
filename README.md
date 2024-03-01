@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh-Kashyap87
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Next.JS
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m currently learning Microsoft Power BI
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me on Gmail - harshkashyap87@gmail.com
 
